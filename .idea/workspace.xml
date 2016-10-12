@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb9481dd-e2f3-42ed-bf2a-107b58a50138" name="Default" comment="up to page 171 in book">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/issues/github_issues.ex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/issues/table_formatter.ex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/doc_test.exs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/table_formatter_test.exs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/issues/c_l_i.ex" afterPath="$PROJECT_DIR$/lib/issues/cli.ex" />
+    <list default="true" id="eb9481dd-e2f3-42ed-bf2a-107b58a50138" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/config.exs" afterPath="$PROJECT_DIR$/config/config.exs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mix.exs" afterPath="$PROJECT_DIR$/mix.exs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/cli_test.exs" afterPath="$PROJECT_DIR$/test/cli_test.exs" />
     </list>
     <ignored path="issues.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -773,7 +765,7 @@
       <workItem from="1475377415434" duration="2376000" />
       <workItem from="1476139334439" duration="4523000" />
       <workItem from="1476160456236" duration="743000" />
-      <workItem from="1476161222983" duration="13074000" />
+      <workItem from="1476161222983" duration="13106000" />
     </task>
     <task id="LOCAL-00001" summary="up to page 148 in book">
       <created>1475379163074</created>
@@ -782,11 +774,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475379163074</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="up to page 171 in book">
+      <created>1476246649051</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1476246649051</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21014000" />
+    <option name="totallyTimeSpent" value="21046000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="0" width="1336" height="768" extended-state="6" />
@@ -1169,6 +1168,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1215">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
